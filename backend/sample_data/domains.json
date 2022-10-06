@@ -1,0 +1,40 @@
+{
+    "domain_data": [
+        {
+            "domain": "reward.gold.razer.com",
+            "amount": 19
+        },
+        {
+            "domain": "silvermerchant.gold.razer.com",
+            "amount": 11
+        },
+        {
+            "domain": "cmssvc.gold.razer.com",
+            "amount": 9
+        },
+        {
+            "domain": "merchantvoucher.gold.razer.com",
+            "amount": 5
+        },
+        {
+            "domain": "rw.zvault.razer.com",
+            "amount": 2
+        },
+        {
+            "domain": "global.mol.com",
+            "amount": 2
+        },
+        {
+            "domain": "zmerchant.gold.razer.com",
+            "amount": 1
+        },
+        {
+            "domain": "api.mol.com",
+            "amount": 1
+        },
+        {
+            "domain": "gold.razer.com",
+            "amount": 1
+        }
+    ]
+}

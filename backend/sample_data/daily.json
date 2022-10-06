@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "date": "23-09-22",
+            "sorter": 220923,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "24-09-22",
+            "sorter": 220924,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "25-09-22",
+            "sorter": 220925,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "26-09-22",
+            "sorter": 220926,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "27-09-22",
+            "sorter": 220927,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "28-09-22",
+            "sorter": 220928,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "29-09-22",
+            "sorter": 220929,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "30-09-22",
+            "sorter": 220930,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "01-10-22",
+            "sorter": 221001,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "02-10-22",
+            "sorter": 221002,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "03-10-22",
+            "sorter": 221003,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "04-10-22",
+            "sorter": 221004,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "05-10-22",
+            "sorter": 221005,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        },
+        {
+            "date": "06-10-22",
+            "sorter": 221006,
+            "low": 48,
+            "medium": 3,
+            "high": 0,
+            "critical": 0,
+            "line": 3
+        }
+    ]
+}

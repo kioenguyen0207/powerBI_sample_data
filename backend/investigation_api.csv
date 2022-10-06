@@ -1,0 +1,21 @@
+id,description,status
+3fab380c-77e6-421e-9ef5-a223c760089b, arn:aws:cloudtrail:ap-southeast-1:903306222264 (115.164.205.34) - S3 PutBucketAcl With Public Accessibile Settings Was Performed.,Open
+0c6ecd36-a6f3-4cfb-b6b8-67c04dd3d3fa,888970741075 - Trojan:EC2/DGADomainRequest.B,Open
+e614355d-f240-412d-a8bc-356e1acc5259, i-0277b8a0719c61294 (172.16.30.113) - Backdoor:EC2/C&CActivity.B!DNS,Open
+77653479-648d-4585-9c59-6d9b13735521,Endpoint (10.88.0.110) - Malicious IP On CTU Botnet IP Indicators,Open
+daf94939-39aa-498a-8758-08ffeada2c91,185.245.85.232 Was Identified As A Malicious IP On CTU Protection IP List (Collection),Open
+2a3aa8fc-00bd-4d63-8fcb-83f0bb1555a1,Cmssvc.Gold.Razer.Com (Collection),Open
+a2572098-22af-4b5c-8584-13f2313c5e8c,Merchant.Gold.Razer.Com (Collection),Open
+5988bad7-4473-4453-92fa-265ffbdb7698,Webpos.Gold.Razer.com (Collection),Open
+e520b3f6-caa5-46f6-ab07-dea306d33919,Global.Gold.Razer.Com (Collection),Open
+61c2ac6f-0766-40b3-8ec4-e1b1e9d3402f,Www.Mol.Com (Collection),Open
+67316c03-5b78-4dfc-8d51-6121a0952c79,Spintowin.Silver.Razer.Com (Collection),Open
+54c0e103-aaf6-4e98-9c29-c235c450f67e,Pay.Gold.Razer.Com (Collection),Open
+3f2bf142-8a40-4250-878a-1e15b0f889e3,Globalapi.Gold.Razer.Com (Collection),Open
+4e41a3b5-5778-44aa-b896-088a00da49de,Silvermerchant.Gold.Razer.Com (Collection),Open
+14d2dea6-f51d-4c74-b052-ec4908bfa68f,Rw.Zvault.Razerzone.Com (Collection),Open
+5a770f71-9a23-4d69-81f7-69186bc6d617,Rw.Zvault.Razer.Com (Collection),Open
+d85616ad-5f31-4fe6-a635-7cdde0ec3be0,Merchantvoucher.Gold.Razer.Com (Collection),Open
+365e2bee-a012-4768-bb14-d6657e920c3d,Gold.Razer.Com (Collection),Open
+2bc3187f-6c11-4116-a7ab-0c284f175d99,zmerchant.gold.razer.com (Collection),Open
+b3d73e6e-1e77-47bb-be77-fa0246aa8bb6,Spintowin.Gold.Razer.Com (Collection),Open

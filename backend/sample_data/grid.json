@@ -1,0 +1,64 @@
+{
+    "grid": [
+        {
+            "domain": "RMS",
+            "severity": 0,
+            "size": 1
+        },
+        {
+            "domain": "Emily",
+            "severity": 0,
+            "size": 1
+        },
+        {
+            "domain": "IT Infra",
+            "severity": 0,
+            "size": 1
+        },
+        {
+            "domain": "cmssvc.gold.razer.com",
+            "severity": 0.5,
+            "size": 0.1111111111111111
+        },
+        {
+            "domain": "rw.zvault.razer.com",
+            "severity": 0.5,
+            "size": 0.1111111111111111
+        },
+        {
+            "domain": "reward.gold.razer.com",
+            "severity": 0.3,
+            "size": 0.1111111111111111
+        },
+        {
+            "domain": "silvermerchant.gold.razer.com",
+            "severity": 0.3,
+            "size": 0.1111111111111111
+        },
+        {
+            "domain": "merchantvoucher.gold.razer.com",
+            "severity": 0.3,
+            "size": 0.1111111111111111
+        },
+        {
+            "domain": "global.mol.com",
+            "severity": 0.3,
+            "size": 0.1111111111111111
+        },
+        {
+            "domain": "zmerchant.gold.razer.com",
+            "severity": 0.3,
+            "size": 0.1111111111111111
+        },
+        {
+            "domain": "api.mol.com",
+            "severity": 0.3,
+            "size": 0.1111111111111111
+        },
+        {
+            "domain": "gold.razer.com",
+            "severity": 0.3,
+            "size": 0.1111111111111111
+        }
+    ]
+}
