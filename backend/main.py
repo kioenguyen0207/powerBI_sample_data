@@ -188,7 +188,7 @@ class json2(Resource):
 
 
 # api.add_resource(column_chart, "/daily")
-api.add_resource(column_chart, "/daily")
+api.add_resource(json1, "/daily")
 api.add_resource(horizontal_chart, "/domains")
 api.add_resource(grid_chart, "/grid")
 api.add_resource(map_chart, "/map")
